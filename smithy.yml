@@ -2,3 +2,6 @@ project: python
 
 install:
   - npm install
+
+script:
+  - npm ls
