@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "dependencies": {
+    "w-annotation-ui": "1.5.3"
+  }
+}

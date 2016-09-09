@@ -1,0 +1,4 @@
+project: python
+
+install:
+  - npm install
